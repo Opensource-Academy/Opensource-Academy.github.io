@@ -9,3 +9,4 @@ permalink: /publications
 [Course catalogue](/courses/catalogue)  
 [Medium](https://medium.com/@opensource_academy)  
 [Study materials](/study)  
+[Study topics](/study/topics)  

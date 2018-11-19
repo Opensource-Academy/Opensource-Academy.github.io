@@ -13,6 +13,9 @@ Open source study materials means anyone can contribute. You'll learn how by sim
 ### For anyone
 Opensource Academy study materials have been designed by hackers and the community to be picked up by anyone willing to spend the time and effort.
 
+### Topics
+We have an overview of just a few of our [favourite topics](/study/topics).
+
 ### Open source courses
 Opensource Academy study materials are seperated into [courses](https://github.com/opensource-academy/courses). A course being a collection of thematically fitting subjects.
 
