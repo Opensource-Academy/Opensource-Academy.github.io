@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Source+Code+Pro" />
+        <link rel="stylesheet" href="/static/css/style.css"
+    </head>
+    <body>
+
+        <div id="page_container">
+            <div id="page_header">{% include header.html %}</div>
+            <div id="page_body">
+                <breadcrumbs><b><a href="/">home</a>{{ page.url }}</b></breadcrumbs>
+                {{ content }}
+
+            </div>
+            <div id="page_footer">
+                <span style="display: block; background-color: #fff; width: 100%; height: 95px;">
+                    <a href ="https://dutchsec.com"><IMG SRC="/static/images/powered_by_dutchsec.png" ALIGN="right" /></a>
+                </span>
+                {% include footer.html %}
+            </div>
+        </div>
+
+    </body>
+</html>
