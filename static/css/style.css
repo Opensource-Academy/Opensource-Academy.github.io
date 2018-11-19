@@ -19,6 +19,7 @@ html {
     background-color: #fff;
     padding-top: 1pt;
     padding-left:8pt;
+    font-size: 12pt;
     padding-right:8pt;
     padding-bottom:155px;   /* Height of the footer */
     width: 80ch;
@@ -29,7 +30,7 @@ html {
     position:absolute;
     bottom:0;
     width:100%;
-    height:155px;   /* Height of the footer */
+    height:95px;   /* Height of the footer */
 }
 
 /* OSA markdown */
@@ -98,41 +99,42 @@ h6 tt, h6 code {
     font-size: inherit;}
 
 h1 {
-    font-size: 32pt;
+    font-size: 48pt;
     color: #525C66;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 22pt;
+    font-size: 36pt;
     color: #525C66;
     margin: 0px 0px 0px;
 }
 
 h3 {
-    font-size: 18pt;
+    font-size: 32pt;
     color: #525C66;
     margin: 0px 0px 0px;
 }
 
 h4 {
-    font-size: 14pt;
+    font-size: 24pt;
     color: #525C66;
 }
 
 h5 {
-    font-size: 12pt;
+    font-size: 22pt;
     color: #525C66;
 }
 
 h6 {
-    font-size: 10pt;
+    font-size: 18pt;
     color: #525C66;
     margin: 0 0 20;
 }
 
 p, blockquote, ul, ol, dl, li, table, pre {
     color: #525C66;
+    font-size: 18pt;
     margin: 0px 0px 20px 0px; }
 
 hr {
@@ -369,7 +371,7 @@ top_menu {
 }
 
 breadcrumbs {
-    font-size: 10pt;
+    font-size: 16pt;
     padding: 0px 0px 20pt;
 }
 

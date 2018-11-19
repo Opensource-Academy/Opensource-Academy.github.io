@@ -7,7 +7,7 @@ parent: courses
 # Course catalogue
 Courses are aimed at professionals in IT or IT related functions and enthousiasts alike.
 
-## [Latest course catalogue](static/catalogues/osa_catalogue_placeholder.pdf)
+## [Latest course catalogue](/static/catalogues/osa_catalogue_placeholder.pdf)
 Contact us on [courses@opensourceacademy.org](mailto:courses@opensourceacademy.org).
 
 ##### Looking for open source study materials?
