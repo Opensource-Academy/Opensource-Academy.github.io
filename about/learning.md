@@ -10,12 +10,27 @@ tags: [background, learning, learn, studying, study, hacking, hacker, hack, prog
 
 Can you become a hacker? How do you become a hacker? On this page, we'll provide an answer to these questions, and more.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Learning](#learning)
+    - [Becoming a hacker](#becoming-a-hacker)
+    - [Getting started](#getting-started)
+        - [Pick up all the things](#pick-up-all-the-things)
+        - [Get to know the tools of the trade](#get-to-know-the-tools-of-the-trade)
+        - [Lazy means good](#lazy-means-good)
+        - [You are not alone](#you-are-not-alone)
+        - [Your problem is probably not unique](#your-problem-is-probably-not-unique)
+    - [Embrace failure](#embrace-failure)
+
+<!-- markdown-toc end -->
+
 ## Becoming a hacker
 Becoming a skilled computer expert isn't easy. It will take years of enthousiasticly tinkering with computers, playing with code and learning all about the many varying aspects of computing, networking, security and more.
 
 However, getting started has never been easier. In recent years, educational options have been popping up all around the internet. Increased computing power has made running virtual open source operating systems less of a hassle. Lastly, open source operating systems are more easily available than ever (often for free).
 
-Getting started isn't the hard part. Pulling true might be harder, however, assuming that you love what you do, you'll surely find a way.
+Getting started isn't the hard part. Pulling through might be harder, however, assuming that you love what you do, you'll surely find a way.
 
 > Just remember: becoming a hacker isn't extremely complicated. There is simply a whole lot of stuff to learn.
 

@@ -111,28 +111,28 @@ h2 {
 }
 
 h3 {
-    font-size: 32pt;
+    font-size: 30pt;
     color: #525C66;
     margin: 0px 0px 0px;
 }
 
 h4 {
-    font-size: 24pt;
+    font-size: 28pt;
     color: #525C66;
 }
 
 h5 {
-    font-size: 22pt;
+    font-size: 26pt;
     color: #525C66;
 }
 
 h6 {
-    font-size: 18pt;
+    font-size: 24pt;
     color: #525C66;
-    margin: 0 0 20;
+    margin: 0px 0px 0px;
 }
 
-p, blockquote, ul, ol, dl, li, table, pre {
+p, blockquote, ul, ol, dl, table, pre {
     color: #525C66;
     font-size: 18pt;
     margin: 0px 0px 20px 0px; }
@@ -168,6 +168,7 @@ li p.first {
     display: inline-block; }
 
 ul, ol {
+    list-style-type: disc;
     padding-left: 30px; }
 
 ul :first-child, ol :first-child {
@@ -181,7 +182,7 @@ dl {
   dl dt {
       font-size: 14px;
       font-weight: bold;
-      font-style: italic;
+      font-style: itali
       padding: 0;
       margin: 15px 0 5px; }
     dl dt:first-child {
@@ -343,7 +344,7 @@ site-title-frontpage {
 
 site-title {
     display: block;
-    font-size: 18pt;
+    font-size: 24pt;
     margin: 0px 0px 1pt;
     font-weight: bold;
 }

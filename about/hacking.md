@@ -10,6 +10,16 @@ tags: [background, hacking, hacker, hack, programming, tinkering, fun]
 
 Hacking. Hackers. To hack. When we use these words, what do we mean? On this page, we'll provide an answer to these questions, and more.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Hacking](#hacking)
+    - [What's a hacker?](#whats-a-hacker)
+    - [What's hacking?](#whats-hacking)
+    - [Why should you become a hacker?](#why-should-you-become-a-hacker)
+
+<!-- markdown-toc end -->
+
 ## What's a hacker?
 Wikipedia defines a hacker as following:
 
