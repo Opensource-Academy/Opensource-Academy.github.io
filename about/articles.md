@@ -16,7 +16,7 @@ This section of the website is dedicated to background articles on open source a
 
 ## Studying
 - [Learning](/about/learning)
-- [Quickstart](/learn/quickstart)
+- [Quickstart](/study/quickstart)
 
 ## Opensource Academy
 - [About Opensource Academy](/about)

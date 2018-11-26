@@ -37,10 +37,10 @@ When we use the verb 'hacking', we are usualy refering to programming or otherwi
 ## Why should you become a hacker?
 The world needs more hackers. Opensource Academy was founded with one simple goal: make sure people understand the importance open source and the possibilities it has for them. By getting more people into open source we hope to advance technology and humanity faster. 
 
-You will start to see how programs connect. You might get slightly addicted. You might have a lot of fun. Experiences will vary. However, if you are even slightly interested, what is stopping you from [starting right now](/learn/quickstart) anyway? You will probably find something you like. If not a lot. 
+You will start to see how programs connect. You might get slightly addicted. You might have a lot of fun. Experiences will vary. However, if you are even slightly interested, what is stopping you from [starting right now](/study/quickstart) anyway? You will probably find something you like. If not a lot. 
 
 Becoming a hacker will allow you to take part in many of the world's biggest projects, work at the coolest companies and help solve the largest problems. Becoming a hacker will also allow you a lot of freedom, in more than one sense.
 
 Learning programming means making your computing life easier and possibly getting work done faster. Learn how to write scripts, to simplefy or automate most things.
 
-That's why you should become a hacker. Why not [join](/learn/quickstart) the fastest advancing field in the world in the fullest way possible?
+That's why you should become a hacker. Why not [join](/study/quickstart) the fastest advancing field in the world in the fullest way possible?
