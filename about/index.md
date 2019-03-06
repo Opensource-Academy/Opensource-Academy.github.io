@@ -12,7 +12,7 @@ Opensource Academy offers insight in a way of thinking about and working with co
 ## Goal
 Opensource Academy was founded with one simple goal: make sure people understand the importance [open source](/about/open-source) and the many possibilities it offers. By getting more people into open source we hope to advance technology and humanity faster. 
 
-The world needs more [hackers](/about/hacking). Opensource Academy aims to solve the growing lack of hackers, developers and technology experts by offering [training](/courses) and freely available [study materials](/study).
+The world needs more [hackers](/about/hacking). Opensource Academy aims to solve the growing lack of hackers, developers and technology experts by offering freely available [study materials](/study).
 
 
 ## Open source
@@ -22,5 +22,7 @@ Because our study materials are open source, anyone is invited to become part of
 
 ## Powered by DutchSec
 Opensource Academy is an initiative by [DutchSec](https://dutchsec.com).
+
+**[Contact](/contact)**
 
 **[more](/about/articles)**  

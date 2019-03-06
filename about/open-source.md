@@ -134,7 +134,7 @@ We can promise however that there must be a project that is right for you. While
 ## Get started
 Convinced, but unsure where to start? Have a look at [open source Friday](https://opensourcefriday.com/), an initiative by [GitHub](https://github.com).
 
-If you are looking to get [started](/study/quickstart) learning, consider Opensource Academy's [open source courses](/study) or [courses](/courses).
+If you are looking to get [started](/study/quickstart) learning, consider Opensource Academy's [open source courses](/study).
 
 ### Beginner friendly open source projects
 [List of beginner friendly open source projects](https://github.com/showcases/great-for-new-contributors).

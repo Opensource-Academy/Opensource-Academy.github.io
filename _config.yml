@@ -47,9 +47,6 @@ collections:
   community:
     output: true
     permalink: /community/:name/
-  courses:
-    output: true
-    permalink: /courses/:name/
   study:
     output: true
     permalink: /study/:name/

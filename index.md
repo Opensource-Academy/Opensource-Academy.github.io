@@ -3,12 +3,20 @@ title: Opensource Academy
 layout: frontpage
 ---
 ### [Study](/study)
-Freely available, open source study materials, so why not get [started](/study/quickstart)?   
+Freely available, open-source study materials.  
+- [Quickstart](/study/quickstart)
+- [Study routes](https://github.com/opensource-academy/routes)
+- [Course overview](https://github.com/opensource-academy/courses)
+- [More about OSA study materials](/study)
 
 ### [Community](/community)
-Help us make the best open source study program, it's available on [GitHub](https://github.com/opensource-academy)  
+Help us make the best open source study program.  
+- [GitHub](https://github.com/opensource-academy)
 
-### [Courses](/courses)
-Teachers available, find a paid course in our [course catalogue](/static/catalogues/osa_catalogue_placeholder.pdf)  
+### [About](/about)
+Background information on OSA, open-source, studying, hacking and more.  
+- [OSA](/about/) 
+- [Open-source](/about/open-source)
+- [More background articles](/about/articles)
 
-**[Contact](/contact)**
+Brought to you by [DutchSec](https://dutchsec.com)
