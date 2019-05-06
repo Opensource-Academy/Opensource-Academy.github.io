@@ -10,7 +10,7 @@ Freely available, open-source study materials.
 - [More about OSA study materials](/study)
 
 ### [Community](/community)
-Help us make the best open source study program.  
+Help us make the best open-source study program.  
 - [GitHub](https://github.com/opensource-academy)
 
 ### [About](/about)
