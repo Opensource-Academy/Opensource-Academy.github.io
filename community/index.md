@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Opensource Academy Community
+title: Open Source Academy Community
 ---
-# Opensource Academy Community
+# Open Source Academy Community
 
-Are you looking to join the Opensource Academy community? Easily get involved through GitHub.
+Are you looking to join the Open Source Academy community? Easily get involved through GitHub.
 
 ## GitHub
-[Opensource Academy organisation](https://github.com/opensource-academy)  
+[Open Source Academy organisation](https://github.com/opensource-academy)  
 [Contributors](https://github.com/Opensource-Academy/contributors)  
 

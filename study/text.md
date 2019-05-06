@@ -6,6 +6,6 @@ parent: study
 ---
 # Text files and text editors
 
-We consider learning the importance of text files and how to operate VIM base skills.
+We consider learning the importance of text files and how to operate Vim base skills.
 
 [Open source course on text files and text editors](https://github.com/Opensource-Academy/text)

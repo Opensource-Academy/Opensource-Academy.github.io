@@ -5,7 +5,7 @@ slug: quickstart
 parent: study
 ---
 # Quickstart
-Opensource Academy offers freely available study materials through GitHub.
+Open Source Academy offers freely available study materials through GitHub.
 
 Pick one of the available [study routes](https://github.com/opensource-academy/routes) or go with one of our recommended starter routes:  
 [Open source contributor](https://github.com/Opensource-Academy/routes/blob/master/contributor.md)  

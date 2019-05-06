@@ -1,5 +1,5 @@
 ---
-title: Opensource Academy
+title: Open Source Academy
 layout: frontpage
 ---
 ### [Study](/study)

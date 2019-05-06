@@ -3,7 +3,7 @@ layout: default
 title: study-materials
 ---
 # Open source study materials
-Opensource Academy offers freely available study materials through GitHub.
+Open Source Academy offers freely available study materials through GitHub.
 
 > Just get me [started](/study/quickstart) already!
 
@@ -11,13 +11,13 @@ Opensource Academy offers freely available study materials through GitHub.
 Open source study materials means anyone can contribute. You'll learn how by simply following along the recommended lessons.
 
 ### For anyone
-Opensource Academy study materials have been designed by hackers and the community to be picked up by anyone willing to spend the time and effort.
+Open Source Academy study materials have been designed by hackers and the community to be picked up by anyone willing to spend the time and effort.
 
 ### Topics
 We have an overview of just a few of our [favourite topics](/study/topics).
 
 ### Open source courses
-Opensource Academy study materials are seperated into [courses](https://github.com/opensource-academy/courses). A course being a collection of thematically fitting subjects.
+Open Source Academy study materials are seperated into [courses](https://github.com/opensource-academy/courses). A course being a collection of thematically fitting subjects.
 
 ### Study routes
 We offer [study routes](https://github.com/opensource-academy/routes#offerings) based on specific goals to make getting started even easier.

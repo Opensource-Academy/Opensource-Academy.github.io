@@ -9,7 +9,7 @@ permalink: /contact
 Ask us a question or just say "hi".
 
 **Email**  
-[hello@opensourceacademy.org](mailto:hello@opensourceacademy.org)
+[opensource-academy@dutchsec.com](mailto:opensource-academy@dutchsec.com)
 
 **Phone**  
 0031624835539

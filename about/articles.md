@@ -6,7 +6,7 @@ parent: about
 ---
 # Articles
 
-This section of the website is dedicated to background articles on open source and Opensource Academy related subjects.
+This section of the website is dedicated to background articles on open source and Open Source Academy related subjects.
 
 ## Open source
 - [Open source](/about/open-source)
@@ -18,5 +18,5 @@ This section of the website is dedicated to background articles on open source a
 - [Learning](/about/learning)
 - [Quickstart](/study/quickstart)
 
-## Opensource Academy
-- [About Opensource Academy](/about)
+## Open Source Academy
+- [About Open Source Academy](/about)

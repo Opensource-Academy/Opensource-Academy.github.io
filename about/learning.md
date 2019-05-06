@@ -34,7 +34,7 @@ Getting started isn't the hard part. Pulling through might be harder, however, a
 
 > Just remember: becoming a hacker isn't extremely complicated. There is simply a whole lot of stuff to learn.
 
-Opensource Academy's offers study materials to guide you through your first steps as a hacker. We don't want to dictate the way you learn, play or hack. We simply want to give you a nudge in the right direction.
+Open Source Academy's offers study materials to guide you through your first steps as a hacker. We don't want to dictate the way you learn, play or hack. We simply want to give you a nudge in the right direction.
 
 Becoming a hacker means that you do not specialise on a specific subject matter. You won't focus on programming in Python. You won't even just focus on programming. You want to know more. You want to be able to do more. You want to be able to do anything.
 

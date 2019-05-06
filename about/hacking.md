@@ -27,7 +27,7 @@ Wikipedia defines a hacker as following:
 
 *Source: [wikipedia.org/wiki/hacker](https://wikipedia.org/wiki/hacker)*
 
-Note how this excerpt describes that a hacker is a `skilled computer expert`. This is the type of hacker Opensource Academy is refering to when we use the word 'hacker'.
+Note how this excerpt describes that a hacker is a `skilled computer expert`. This is the type of hacker Open Source Academy is refering to when we use the word 'hacker'.
 
 ## What's hacking?
 Very much like the word 'hacker' has become synonymous with 'security hacker' in the mainstream, 'hacking' has become the generally accepted term for breaking into computer systems. We refer to this as either cracking or penetration testing.
@@ -35,7 +35,7 @@ Very much like the word 'hacker' has become synonymous with 'security hacker' in
 When we use the verb 'hacking', we are usualy refering to programming or otherwise writing or modifying code or scripts to make a computer do what you want it to do.
 
 ## Why should you become a hacker?
-The world needs more hackers. Opensource Academy was founded with one simple goal: make sure people understand the importance open source and the possibilities it has for them. By getting more people into open source we hope to advance technology and humanity faster. 
+The world needs more hackers. Open Source Academy was founded with one simple goal: make sure people understand the importance open source and the possibilities it has for them. By getting more people into open source we hope to advance technology and humanity faster. 
 
 You will start to see how programs connect. You might get slightly addicted. You might have a lot of fun. Experiences will vary. However, if you are even slightly interested, what is stopping you from [starting right now](/study/quickstart) anyway? You will probably find something you like. If not a lot. 
 
