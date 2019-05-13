@@ -2,6 +2,7 @@
 title: Open Source Academy
 layout: frontpage
 ---
+
 ### [Study](/study)
 Freely available, open-source study materials.  
 - [Quickstart](/study/quickstart)
@@ -12,6 +13,7 @@ Freely available, open-source study materials.
 ### [Community](/community)
 Help us make the best open-source study program.  
 - [GitHub](https://github.com/opensource-academy)
+- [Meetups](/meetups)
 
 ### [About](/about)
 Background information on OSA, open-source, studying, hacking and more.  
