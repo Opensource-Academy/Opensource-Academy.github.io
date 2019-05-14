@@ -36,10 +36,6 @@ Work together, learn together, at the same time, at the same place.
 ## Book now
 [All available events](http://osa.fikket.nl/)
 
-<iframe height="180" src="http://osa.fikket.nl/event/utrecht-osa-meetup-19-06.iframe" style="border: 0px" width="100%"></iframe>
-<iframe height="180" src="http://osa.fikket.nl/event/utrecht-osa-meetup-19-07.iframe" style="border: 0px" width="100%"></iframe>
-<iframe height="180" src="http://osa.fikket.nl/event/utrecht-osa-meetup-19-08.iframe" style="border: 0px" width="100%"></iframe>
-
 ---
 ## Requirements
 
