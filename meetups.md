@@ -2,6 +2,7 @@
 layout: onepager
 title: Open Source Academy Meetups
 slug: meetups
+permalink: /meetups
 ---
 
 ---
@@ -33,10 +34,6 @@ Bring some friends or make new friends to learn about or work on open-source rel
 Work together, learn together, at the same time, at the same place. 
 
 ---
-## Book now
-[All available events](http://osa.fikket.nl/)
-
----
 ## Requirements
 
 ---
@@ -61,6 +58,10 @@ Don't forget to bring your laptop.
 | 2019, August 28    | DutchSec |
 | 2019, September 25 | DutchSec |
 
+## Book now
+[All available events](http://osa.fikket.nl/)
+
+---
 ## Further reading
 - [OSA](/about/) 
 - [Open-source](/about/open-source)
