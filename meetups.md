@@ -12,7 +12,7 @@ Are you curious about or want to do more with open-source?
 
 Meet up with like minded enthousiasts during an Open Source Academy Meetup.
 
-[Sign up right away](https://signup.com/go/whYODrX) or continue reading to find out more.
+[Sign up right away](http://osa.fikket.nl/) or continue reading to find out more.
 
 ---
 ## More than programming
@@ -33,21 +33,29 @@ Bring some friends or make new friends to learn about or work on open-source rel
 Work together, learn together, at the same time, at the same place. 
 
 ---
+## Book now
+[All available events](http://osa.fikket.nl/)
+
+<iframe height="180" src="http://osa.fikket.nl/event/utrecht-osa-meetup-19-06.iframe" style="border: 0px" width="100%"></iframe>
+<iframe height="180" src="http://osa.fikket.nl/event/utrecht-osa-meetup-19-07.iframe" style="border: 0px" width="100%"></iframe>
+<iframe height="180" src="http://osa.fikket.nl/event/utrecht-osa-meetup-19-08.iframe" style="border: 0px" width="100%"></iframe>
+
+---
 ## Requirements
 
 ---
-Because of limited space, we'll require you to [sign up](https://signup.com/go/whYODrX) to be able to join a Meetup. 
+Because of limited space, we'll require you to [sign up](http://osa.fikket.nl/) to be able to join a Meetup. 
 
 Don't forget to bring your laptop.
 
 ---
-## Where
+## Locations
 
 | Location                         | Country     | Area    | Address                   |
 | :---                             | :---        | :---    | :---                      |
 | [DutchSec](https://dutchsec.com) | Netherlands | Utrecht | Achter de Dom 14, Utrecht |
 
-## When
+## Dates
 
 | Date               | Location |
 | :---               | :---     |
