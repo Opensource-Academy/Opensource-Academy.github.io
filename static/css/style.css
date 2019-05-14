@@ -138,7 +138,7 @@ p, blockquote, ul, ol, dl, table, pre {
     margin: 0px 0px 20px 0px; }
 
 hr {
-    background: transparent url("../../images/modules/pulls/dirty-shade.png") repeat-x 0 0;
+    background: transparent url("../../static/images/hr.png") repeat-x 0 0;
     border: 0 none;
     color: #cccccc;
     height: 4px;
