@@ -7,7 +7,7 @@ title: Open Source Academy Community
 Are you looking to join the Open Source Academy community? Easily get involved through GitHub or sign up for a meetup.
 
 ## Meetups
-[Meetup overview](https://signup.com/go/whYODrX)  
+[Meetup overview](http://osa.fikket.nl/)  
 [About Meetups](/meetups)
 
 ## GitHub
