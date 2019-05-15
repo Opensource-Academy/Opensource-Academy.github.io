@@ -137,4 +137,5 @@ Convinced, but unsure where to start? Have a look at [open source Friday](https:
 If you are looking to get [started](/study/quickstart) learning, consider Open Source Academy's [open-source courses](/study).
 
 ### Beginner friendly open-source projects
-[List of beginner friendly open-source projects](https://github.com/showcases/great-for-new-contributors).
+- [List of beginner friendly open-source projects](https://github.com/showcases/great-for-new-contributors)
+- [Open-source projects overview](/projects) on this website

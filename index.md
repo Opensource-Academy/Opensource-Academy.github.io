@@ -14,6 +14,7 @@ Freely available, open-source study materials.
 Help us make the best open-source study program.  
 - [GitHub](https://github.com/opensource-academy)
 - [Meetups](/meetups)
+- [Open-source projects](/projects)
 
 ### [About](/about)
 Background information on OSA, open-source, studying, hacking and more.  

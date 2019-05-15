@@ -9,10 +9,13 @@ Are you looking to join the Open Source Academy community? Easily get involved t
 <br>
 ## Meetups
 [Meetup overview](http://osa.fikket.nl/)  
-[About Meetups](/meetups)
+[About Meetups](/meetups)  
 
 <br>
 ## GitHub
 [Open Source Academy organisation](https://github.com/opensource-academy)  
 [Contributors](https://github.com/Opensource-Academy/contributors)  
 
+<br>
+## Projects
+[Open-source projects to contribute to](/projects)  
