@@ -10,4 +10,4 @@ We think open source matters.
 
 [More about open source and open source software](/about/open-source)
 
-[Open source course on open source](https://github.com/Opensource-Academy/open-source)
+[Open source course on open source](/category/open-source)

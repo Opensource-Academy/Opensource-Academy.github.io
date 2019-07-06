@@ -6,8 +6,8 @@ layout: frontpage
 ### [Study](/study)
 Freely available, open-source study materials.  
 - [Quickstart](/study/quickstart)
-- [Study routes](https://github.com/opensource-academy/routes)
-- [Course overview](https://github.com/opensource-academy/courses)
+- [Study routes](/category/routes)
+- [Course overview](/category/courses)
 - [More about OSA study materials](/study)
 
 ### [Community](/community)
@@ -18,7 +18,7 @@ Help us make the best open-source study program.
 
 ### [About](/about)
 Background information on OSA, open-source, studying, hacking and more.  
-- [OSA](/about/) 
+- [OSA](/about/)
 - [Open-source](/about/open-source)
 - [More background articles](/about/articles)
 
