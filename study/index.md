@@ -32,6 +32,6 @@ We offer [study routes](/category/routes#offerings) based on specific goals to m
 #### Starter study routes
 These study routes are perfect for starters. Start learning about open source, open source software and contributing or do all of those and pick up programming while you're at it.
 
-[Open source contributor](/category/routes/blob/master/contributor.md)  
-[Open source programmer](/category/routes/blob/master/programmer.md)  
+[Open source contributor](/category/routes/contributor.md)  
+[Open source programmer](/category/routes/programmer.md)  
 
