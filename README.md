@@ -23,5 +23,6 @@ Visit [http://localhost:4000](http://localhost:4000)
 ```
 git clone git@github.com:Opensource-Academy/Opensource-Academy.github.io.git
 cd Opensource-Academy.github.io
+bundle install
 bundle exec jekyll serve
 ```
