@@ -40,12 +40,14 @@ Don't forget to bring your laptop.
 
 ## Dates
 
-| Date               | Time          | Location |
-| :---               | :---          | :---     |
-| 2019, September 25 | 19:00 - 22:00 | DutchSec |
-| 2019, October 30   | 19:00 - 22:00 | DutchSec |
-| 2019, November 27  | 19:00 - 22:00 | DutchSec |
-| 2019, December 18  | 19:00 - 22:00 | DutchSec |
+| Date              | Time          | Location |
+| :---              | :---          | :---     |
+| 2019, December 18 | 19:00 - 22:00 | DutchSec |
+| 2020, January 15  | 19:00 - 22:00 | DutchSec |
+| 2020, February 26 | 19:00 - 22:00 | DutchSec |
+| 2020, March 25    | 19:00 - 22:00 | DutchSec |
+| 2020, April 29    | 19:00 - 22:00 | DutchSec |
+| 2020, May 27      | 19:00 - 22:00 | DutchSec |
 
 ## Book now
 [All available events](http://osa.fikket.nl/)
