@@ -9,9 +9,6 @@ html {
     position:relative;
 }
 #page_header {
-    border-top-style: solid;
-    border-top-color: #525C66;
-    border-top-width: thin;
     padding:8pt;
     background-color: #fff;
 }
@@ -19,7 +16,6 @@ html {
     background-color: #fff;
     padding-top: 1pt;
     padding-left:8pt;
-    font-size: 12pt;
     padding-right:8pt;
     padding-bottom:155px;   /* Height of the footer */
     width: 80ch;
@@ -37,7 +33,6 @@ html {
 /* Markdown source copy pasted from https://gist.github.com/andyferra/2554919 */
 body {
     font-family: Open Sans, Sans, sans-serif;
-    font-size: 12pt;
     line-height: 1.6;
     background-color: white;
     margin:0;
@@ -99,43 +94,37 @@ h6 tt, h6 code {
     font-size: inherit;}
 
 h1 {
-    font-size: 48pt;
     color: #525C66;
     font-weight: bold;
+    margin: 0px 0px 0px;
 }
 
 h2 {
-    font-size: 36pt;
     color: #525C66;
     margin: 0px 0px 0px;
 }
 
 h3 {
-    font-size: 30pt;
     color: #525C66;
     margin: 0px 0px 0px;
 }
 
 h4 {
-    font-size: 28pt;
     color: #525C66;
 }
 
 h5 {
-    font-size: 26pt;
     color: #525C66;
 }
 
 h6 {
-    font-size: 24pt;
     color: #525C66;
     margin: 0px 0px 0px;
 }
 
 p, blockquote, ul, ol, dl, table, pre {
     color: #525C66;
-    font-size: 18pt;
-    margin: 0px 0px 20px 0px; }
+    margin: 0px 0px 1em 0px; }
 
 hr {
     background: transparent url("../../static/images/hr.png") repeat-x 0 0;
