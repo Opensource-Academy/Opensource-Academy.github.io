@@ -18,5 +18,5 @@ Are you looking to join the Open Source Academy community? Easily get involved t
 
 <br>
 ## Projects
-[Open Source Academy Community Projects](/communnity/projects)
+[Open Source Academy Community Projects](/community/projects)  
 [Open-source projects to contribute to](/projects)  
