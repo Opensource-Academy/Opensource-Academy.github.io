@@ -46,8 +46,7 @@ Don't forget to bring your laptop.
 | 2020, January 15  | 19:00 - 22:00 | DutchSec  |
 | 2020, February 26 | 19:00 - 22:00 | DutchSec  |
 | 2020, March 25    | CANCELLED     | CANCELLED |
-| 2020, April 29    | 19:00 - 22:00 | DutchSec  |
-| 2020, May 27      | 19:00 - 22:00 | DutchSec  |
+| 2020, April 29    | CANCELLED     | CANCELLED |
 
 ## Book now
 [All available events](http://osa.fikket.nl/)
