@@ -20,7 +20,7 @@ On this page, we'll provide an answer to these questions, and more.
         - [What is open-source?](#what-is-open-source)
         - [What is open-source not?](#what-is-open-source-not)
             - [Open-source doesn't always mean free of charge](#open-source-doesnt-always-mean-free-of-charge)
-            - [Open-source doesn't automagically make your code or product better](#open-source-doesnt-automagically-make-your-code-or-product-better)
+            - [Open-source doesn't automatically make your code or product better](#open-source-doesnt-automatically-make-your-code-or-product-better)
             - [Open-source software is more than desktop Linux](#open-source-software-is-more-than-desktop-linux)
         - [Further reference](#further-reference)
     - [Why does open-source matter?](#why-does-open-source-matter)
@@ -57,7 +57,7 @@ Words such as 'free, 'collaboration' and 'community' tend to wrongfully give som
 
 As mentioned above, open-source is not about giving away a product for free. Open-source source code means receiving (peer) reviews, receiving (user) feedback and having acces to a (possibly much larger) group of testers. Open-source does **not** dictate the business model surrounding the final product that results from an open-source project. 
 
-#### Open-source doesn't automagically make your code or product better
+#### Open-source doesn't automatically make your code or product better
 Developers or companies hoping to score instant rewards by simply publishing their code will need to change their expectations.
 
 Making source code publicly available doesn't mean instant improvements. Growing a community around a new project will require a project that others will consider 'worthy of their time' and, rather obviously, some time.
