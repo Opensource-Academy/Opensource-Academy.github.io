@@ -21,6 +21,4 @@ Because our study materials are open-source, anyone is invited to become part of
 ## Powered by DutchSec
 Open Source Academy is an initiative by [DutchSec](https://dutchsec.com).
 
-**[Contact](/contact)**
-
 **[more](/about/articles)**  
