@@ -8,7 +8,7 @@ permalink: /projects
 ## Consider contributing to one of these projects 
 Feel free to add projects by sending a [pull request](https://github.com/Opensource-Academy/Opensource-Academy.github.io)!
 
-The Open Source Academy community also has it's own [projects](/community/projects), which are closely related to our [Meetups](/meetups).
+The Open Source Academy community also has it's own [projects](/community/projects).
 
 <br>
 [A](#a) [B](#b) [C](#d) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)

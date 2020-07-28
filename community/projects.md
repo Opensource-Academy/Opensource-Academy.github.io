@@ -4,7 +4,7 @@ title: Community projects
 ---
 <br>
 ## Open Source Academy Community Projects
-This page provides an overview of our community projects. Feel free to contribute on GitHub or join a [Meetup](/meetups) to learn how.
+This page provides an overview of our community projects. Feel free to contribute on GitHub.
 
 <br>
 [A](#a) [B](#b) [C](#d) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i)

@@ -3,11 +3,7 @@ layout: default
 title: Open Source Academy Community
 ---
 # Open Source Academy Community
-Are you looking to join the Open Source Academy community? Easily get involved through GitHub or sign up for a meetup.
-
-## Meetups
-[Meetup overview](http://osa.fikket.nl/)  
-[About Meetups](/meetups)  
+Are you looking to join the Open Source Academy community? Easily get involved through GitHub.
 
 ## GitHub
 [Open Source Academy organisation](https://github.com/opensource-academy)  
