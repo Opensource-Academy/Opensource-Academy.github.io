@@ -8,4 +8,4 @@ parent: study
 
 We consider learning the importance of text files and how to operate VIM base skills.
 
-[Open source course on programming](https://github.com/Opensource-Academy/programming)
+[Open source course on programming](/category/programming)

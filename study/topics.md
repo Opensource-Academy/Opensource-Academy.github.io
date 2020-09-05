@@ -29,5 +29,5 @@ We consider working with Git and services like GitHub base skills.
 ## [Programming](/study/programming)
 We think anyone can learn how to program and benefit from it. Considered a base skill for hackers.
 
-## [And much more!](https://github.com/Opensource-Academy/courses)
-Such as, but not limited to, [containers with Docker](https://github.com/Opensource-Academy/docker), [networking](https://github.com/Opensource-Academy/networking) or [using and creating documentation](https://github.com/Opensource-Academy/documentation).
+## [And much more!](/category/courses)
+Such as, but not limited to, [containers with Docker](/category/docker), [networking](/category/networking) or [using and creating documentation](/category/documentation).

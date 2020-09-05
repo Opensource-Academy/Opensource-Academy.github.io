@@ -8,4 +8,4 @@ parent: study
 
 We consider working with Git and services like GitHub base skills.
 
-[Open source course on git](https://github.com/Opensource-Academy/git)
+[Open source course on git](/category/git)
